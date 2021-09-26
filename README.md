@@ -1,2 +1,2 @@
 # bootcamp-neuron.datagirls
-Projeto desenvolvido para o  Desafio - Bootcamp Data Science na Prática II
+Desafio prático do Bootcamp Data Science na Prática II conferido pela Neuron Data Science and AI.
